@@ -1,0 +1,47 @@
+c:\users\timothy fox\documents\visual studio 2010\Projects\SoundCloudGet\SoundCloudGet\bin\Debug\SoundCloudGet.exe
+c:\users\timothy fox\documents\visual studio 2010\Projects\SoundCloudGet\SoundCloudGet\bin\Debug\SoundCloudGet.pdb
+c:\users\timothy fox\documents\visual studio 2010\Projects\SoundCloudGet\SoundCloudGet\obj\x86\Debug\SoundCloudGet.exe
+c:\users\timothy fox\documents\visual studio 2010\Projects\SoundCloudGet\SoundCloudGet\obj\x86\Debug\SoundCloudGet.pdb
+c:\users\timothy fox\documents\visual studio 2010\Projects\SoundCloudGet\SoundCloudGet\obj\x86\Debug\SoundCloudGet.csprojResolveAssemblyReference.cache
+c:\users\timothy fox\documents\visual studio 2010\Projects\SoundCloudGet\SoundCloudGet\bin\Debug\Newtonsoft.Json.dll
+c:\users\timothy fox\documents\visual studio 2010\Projects\SoundCloudGet\SoundCloudGet\bin\Debug\Newtonsoft.Json.pdb
+c:\users\timothy fox\documents\visual studio 2010\Projects\SoundCloudGet\SoundCloudGet\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\SoundCloudGet\SoundCloudGet\obj\x86\Debug\SoundCloudGet.exe
+C:\Dev\SoundCloudGet\SoundCloudGet\obj\x86\Debug\SoundCloudGet.pdb
+C:\Dev\SoundCloudGet\SoundCloudGet\obj\x86\Debug\SoundCloudGet.csprojResolveAssemblyReference.cache
+C:\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\SoundCloudGet.exe
+C:\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\SoundCloudGet.pdb
+C:\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\SoundCloudGet.exe.config
+F:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\SoundCloudGet.exe.config
+F:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\obj\x86\Debug\SoundCloudGet.exe
+F:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\obj\x86\Debug\SoundCloudGet.pdb
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\SoundCloudGet.exe.config
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\SoundCloudGet.exe
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\SoundCloudGet.pdb
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\Newtonsoft.Json.dll
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.Helpers.dll
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.WebPages.dll
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.Razor.dll
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\Newtonsoft.Json.pdb
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\Newtonsoft.Json.xml
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.Helpers.xml
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.WebPages.xml
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\Microsoft.Web.Infrastructure.xml
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.Razor.xml
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\obj\x86\Debug\SoundCloudGet.csprojResolveAssemblyReference.cache
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\obj\x86\Debug\SoundCloudGet.exe
+G:\WinBookBackup\Dev\SoundCloudGet\SoundCloudGet\obj\x86\Debug\SoundCloudGet.pdb
+C:\dev\SoundCloudGet\SoundCloudGet\bin\Debug\Newtonsoft.Json.dll
+C:\dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.Helpers.dll
+C:\dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.WebPages.dll
+C:\dev\SoundCloudGet\SoundCloudGet\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.Razor.dll
+C:\dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.Helpers.xml
+C:\dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.WebPages.xml
+C:\dev\SoundCloudGet\SoundCloudGet\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.Razor.xml
+C:\dev\SoundCloudGet\SoundCloudGet\bin\Debug\System.Web.WebPages.Deployment.xml
